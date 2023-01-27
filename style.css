@@ -1,0 +1,57 @@
+
+body {
+background-color:#8B8B8B;
+}
+
+#banner{
+width: 100%;
+}
+
+.titulo-centralizado {
+    text-align: center;
+  
+}
+
+.titulo-principal {
+padding-left: 20pix;
+
+}
+
+p {
+    text-align: center;
+}
+
+#missao{
+
+    font-size:20px
+
+}
+
+em strong { /*em strong especifica que quero mudar a cor do strong que esta dentro do 'em'*/
+
+color:brown
+}
+
+.itens {    /*aplicando italico em todos os itens*/
+font-style: italic;
+}
+
+
+ul{
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+}
+
+.imagembeneficio {
+width: 50%;
+
+}
+
+
+
+
+
+
+
